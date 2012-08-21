@@ -1,0 +1,3 @@
+#!/system/bin/sh
+ARGV2=$2
+echo "/system/bin/$ARGV2"
